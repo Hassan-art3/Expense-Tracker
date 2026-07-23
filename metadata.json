@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A modern, premium desktop personal finance and expense management app with multi-currency tracking, budgets, goals, analytics, and command palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
